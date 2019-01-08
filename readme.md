@@ -1,3 +1,3 @@
-#  page d'acceuil Google
+#  Page d'acceuil Google
 Collaboration de
 Manoa et Mirana
